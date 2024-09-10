@@ -1,0 +1,3 @@
+﻿  DataTypes.cpp
+C:\Users\icoll\source\repos\DataTypes\DataTypes.cpp(13,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DataTypes.vcxproj -> C:\Users\icoll\source\repos\DataTypes\x64\Debug\DataTypes.exe

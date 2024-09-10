@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icoll\\source\\repos\\DataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB36FA-E480-44D6-8E98-75BDDAC60988}|DataTypes.vcxproj|C:\\Users\\icoll\\source\\repos\\DataTypes\\DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3BB36FA-E480-44D6-8E98-75BDDAC60988}|DataTypes.vcxproj|solutionrelative:DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataTypes.cpp",
+              "DocumentMoniker": "C:\\Users\\icoll\\source\\repos\\DataTypes\\DataTypes.cpp",
+              "RelativeDocumentMoniker": "DataTypes.cpp",
+              "ToolTip": "C:\\Users\\icoll\\source\\repos\\DataTypes\\DataTypes.cpp",
+              "RelativeToolTip": "DataTypes.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T21:05:54.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
